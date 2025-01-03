@@ -1,0 +1,28 @@
+c:\Users\2024\AdminDashboard\bin\Debug\net9.0\AdminDashboard.exe
+c:\Users\2024\AdminDashboard\bin\Debug\net9.0\AdminDashboard.deps.json
+c:\Users\2024\AdminDashboard\bin\Debug\net9.0\AdminDashboard.runtimeconfig.json
+c:\Users\2024\AdminDashboard\bin\Debug\net9.0\AdminDashboard.dll
+c:\Users\2024\AdminDashboard\bin\Debug\net9.0\AdminDashboard.pdb
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.AssemblyInfoInputs.cache
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.AssemblyInfo.cs
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.csproj.CoreCompileInputs.cache
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.dll
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\refint\AdminDashboard.dll
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.pdb
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\AdminDashboard.genruntimeconfig.cache
+c:\Users\2024\AdminDashboard\obj\Debug\net9.0\ref\AdminDashboard.dll
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\bin\Debug\net9.0\AdminDashboard.exe
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\bin\Debug\net9.0\AdminDashboard.deps.json
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\bin\Debug\net9.0\AdminDashboard.runtimeconfig.json
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\bin\Debug\net9.0\AdminDashboard.dll
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\bin\Debug\net9.0\AdminDashboard.pdb
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.AssemblyInfoInputs.cache
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.AssemblyInfo.cs
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.csproj.CoreCompileInputs.cache
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.dll
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\refint\AdminDashboard.dll
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.pdb
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\AdminDashboard.genruntimeconfig.cache
+c:\Users\Omar Youssef\Downloads\AdminDashboard\AdminDashboard\obj\Debug\net9.0\ref\AdminDashboard.dll
